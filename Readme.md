@@ -1,32 +1,44 @@
 # JobLe2 - My Job Portal Learning Project
 
-src/main/resources/static/image/logo3.png 
-
+<div align="center">
+  <a href="https://github.com/AnirudhHanda/JobLe2---JSP/tree/main">
+    <img src="https://raw.githubusercontent.com/AnirudhHanda/JobLe2---JSP/main/src/main/resources/static/image/logo3.png" alt="Project Logo" style="height: 80px; width: 100px;">
+<img src="https://raw.githubusercontent.com/AnirudhHanda/JobLe2---JSP/main/src/main/resources/static/image/logo3text.png" alt="Project Logo" style="position: relative; left: -25px; height: 80px; width: 150px;">
+  </a>
+</div>
 This is a simple Java Spring Boot web application I built to learn more about web development and practice using Spring Boot, JSP, and JSTL. It's a basic job portal where users can post and view job listings.
 
 ## Features
+
 
 * User-friendly interface (still a work in progress!)
 * Basic job posting and viewing functionality
 * Dark theme for a cool look
 
-## Demo Video
-
-[Demo Video Link] _(Replace with your actual demo video link)_
-
 ## Screenshots
 
 * Home Page
-
-[Home Page Screenshot] _(Replace with your actual screenshot)_
+<div align="center">
+  <img src="github-assets/home.PNG" alt="SMVDU IGNITE Brand GIF" style="border-radius: 10px; box-shadow: 0 0 5px #7ed957;">
+</div>
 
 * Job Posting Form
 
-[Job Posting Form Screenshot] _(Replace with your actual screenshot)_
+<div align="center">
+  <img src="github-assets/jobpostingform.PNG" alt="SMVDU IGNITE Brand GIF" style="border-radius: 10px; box-shadow: 0 0 5px #7ed957;">
+</div>
 
 * Job Listings Page
 
-[Job Listings Page Screenshot] _(Replace with your actual screenshot)_
+<div align="center">
+  <img src="github-assets/alljobs.png" alt="SMVDU IGNITE Brand GIF" style="border-radius: 10px; box-shadow: 0 0 5px #7ed957;">
+</div>
+
+* Success Page
+
+<div align="center">
+  <img src="github-assets/success.png" alt="SMVDU IGNITE Brand GIF" style="border-radius: 10px; box-shadow: 0 0 5px #7ed957;">
+</div>
 
 ## Technologies Used
 
@@ -51,4 +63,50 @@ If you're using IntelliJ IDEA or Eclipse:
 
 1. Clone the repository:
    ```bash
+   git clone https://your-repository-url.git 
+   ```
+
+   If you're using IntelliJ IDEA or Eclipse:
+
+   1.  **Open the project in your IDE:**
+      *   IntelliJ IDEA: `File -> Open` and select the cloned project folder.
+      *   Eclipse: `File -> Import -> Existing Maven Projects` and select the cloned project folder.
+
+   2.  **Run the application:**
+      *   Locate the `App.java` file.
+      *   Right-click on it and choose "Run 'App.java'" or a similar option.
+
+   3.  **Access the application:**
+      *   Once the application starts, open your web browser and go to `http://localhost:8080`.
+
+#### 2. Using Maven (For VS Code or Command Line)
+
+If you prefer using VS Code or the command line, you'll need Maven installed:
+
+1. **Install Maven:**
+   * Download and install Maven from the [official Apache Maven website](https://maven.apache.org/download.cgi).
+   * Make sure the `mvn` command is available in your terminal or command prompt.
+
+2. **Clone the repository:**
+
+   ```bash
    git clone https://your-repository-url.git
+   ```
+   
+   
+3.  **Navigate to the project directory:**
+   *  ``` Bash
+       cd o197joble2  # Replace 'o197joble2' with your actual project folder name.
+
+4.  **Build and run the application:**
+   *  ```bash
+      ./mvnw spring-boot:run 
+
+5.  **Access the application:**
+   *   Once the application starts, open your web browser and go to `http://localhost:8080`.
+
+### Running the Application
+Feel free to contribute if you have any ideas or improvements!
+
+### License
+This project is licensed under the MIT License.
