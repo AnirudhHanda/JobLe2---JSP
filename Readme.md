@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/AnirudhHanda/JobLe2---JSP/tree/main">
-    <img src="github-assets/logo4.png" alt="Project Logo" style="height: 80px; width: 100px;">
+    <img src="github-assets/logo4.png" alt="Project Logo" style="height: 80px; width: 250px;">
   </a>
 </div>
 This is a simple Java Spring Boot web application I built to learn more about web development and practice using Spring Boot, JSP, and JSTL. It's a basic job portal where users can post and view job listings.
