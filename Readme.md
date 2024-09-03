@@ -3,12 +3,8 @@
 <div align="center">
   <a href="https://github.com/AnirudhHanda/JobLe2---JSP/tree/main">
     <img src="https://raw.githubusercontent.com/AnirudhHanda/JobLe2---JSP/main/src/main/resources/static/image/logo3.png" alt="Project Logo" style="height: 80px; width: 100px;">
+<img src="https://raw.githubusercontent.com/AnirudhHanda/JobLe2---JSP/main/src/main/resources/static/image/logo3text.png" alt="Project Logo" style="position: relative; left: -55px; height: 80px; width: 150px;">
   </a>
-</div>
-<div align="center">
-   <a href="https://github.com/AnirudhHanda/JobLe2---JSP/tree/main">
-      <img src="https://raw.githubusercontent.com/AnirudhHanda/JobLe2---JSP/main/src/main/resources/static/image/logo3text.png" alt="Project Logo" style="height: 80px; width: 150px;">
-   </a>
 </div>
 This is a simple Java Spring Boot web application I built to learn more about web development and practice using Spring Boot, JSP, and JSTL. It's a basic job portal where users can post and view job listings.
 
