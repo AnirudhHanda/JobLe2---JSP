@@ -63,7 +63,7 @@ If you're using IntelliJ IDEA or Eclipse:
 
 1. Clone the repository:
    ```bash
-   git clone https://your-repository-url.git 
+   git clone https://github.com/AnirudhHanda/JobLe2---JSP.git 
    ```
 
    If you're using IntelliJ IDEA or Eclipse:
@@ -73,7 +73,7 @@ If you're using IntelliJ IDEA or Eclipse:
       *   Eclipse: `File -> Import -> Existing Maven Projects` and select the cloned project folder.
 
    2.  **Run the application:**
-      *   Locate the `App.java` file.
+      *   Locate the `O197jobLe2Application.java` file.
       *   Right-click on it and choose "Run 'App.java'" or a similar option.
 
    3.  **Access the application:**
@@ -90,13 +90,13 @@ If you prefer using VS Code or the command line, you'll need Maven installed:
 2. **Clone the repository:**
 
    ```bash
-   git clone https://your-repository-url.git
+   git clonehttps://github.com/AnirudhHanda/JobLe2---JSP.git
    ```
    
    
 3.  **Navigate to the project directory:**
    *  ``` Bash
-       cd o197joble2  # Replace 'o197joble2' with your actual project folder name.
+       cd o197JobLe2  # Replace 'o197joble2' with your actual project folder name.
 
 4.  **Build and run the application:**
    *  ```bash
